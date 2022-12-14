@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.left {
+    background-color: aquamarine;
+    flex-basis: 50%;
+    align-items: center;
+}
+
+.right {
+    background-color: burlywood;
+    flex-basis: 50%;
+}
